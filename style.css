@@ -31,12 +31,12 @@ body{
 .pp1 {
     font-family: 'Courier New', Courier, monospace;
     font-size: 18;
-    
+    padding-right: 1000px;
 }
 
 .im {
     height: 450px;
     width: 450px;
     padding-left: 50%;
-    padding-top: -90px;
+    margin-top: -155px;
 }
