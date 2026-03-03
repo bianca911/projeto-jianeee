@@ -1,10 +1,29 @@
 body{
     background-color: rebeccapurple; 
+    padding-left: 9px;
+    padding-right: 9px;
+    gap: 15px;
 }
 
 .eu{
     color: #ffffff;
-    font-size: 35px;
+    font-size: 34px;
     font-family: "Bungee", sans-serif;
     text-align: center;
+}
+
+.tempo{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.t {
+    font-family: "Bungee", sans-serif;
+    color: #ffffff;
+    font-size: 17px;
+    padding-left: 6px;
+}
+
+.pp {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
 }
