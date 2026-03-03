@@ -27,3 +27,16 @@ body{
     font-family: 'Courier New', Courier, monospace;
     font-size: 18px;
 }
+
+.pp1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18;
+    
+}
+
+.im {
+    height: 450px;
+    width: 450px;
+    padding-left: 50%;
+    padding-top: -90px;
+}
