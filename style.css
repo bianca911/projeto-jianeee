@@ -10,10 +10,12 @@ body{
     font-size: 34px;
     font-family: "Bungee", sans-serif;
     text-align: center;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
 }
 
 .tempo{
     font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
 }
 
 .t {
@@ -21,6 +23,7 @@ body{
     color: #ffffff;
     font-size: 17px;
     padding-left: 6px;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
 }
 
 .pp {
@@ -31,12 +34,66 @@ body{
 .pp1 {
     font-family: 'Courier New', Courier, monospace;
     font-size: 18;
-    padding-right: 1000px;
+    padding-right: 800px;
 }
 
 .im {
-    height: 450px;
-    width: 450px;
+    height: 4,0px;
+    width: 400px;
     padding-left: 50%;
-    margin-top: -155px;
+    margin-top: -20px;
+   
+    
+}
+
+.tcid {
+    font-family: "Bungee", sans-serif;
+    color: #ffffff;
+    font-size: 25px;
+    padding-left: 51%;
+    margin-top: -260px;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+    
+}
+
+.tocid{
+    font-family: "Bungee", sans-serif;
+    color: #ffffff;
+    font-size: 25px;
+    margin-top: -30px;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+}
+
+.im1 {
+    width: 400px;
+    margin-top: -20px;
+    
+}
+
+.th {
+    font-family: "Bungee", sans-serif;
+    color: #ffffff;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+    font-size: 24px;
+    padding-left: 34%;
+    margin-top: -290px;
+}
+
+.top{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+.p {
+    font-family: "Bungee", sans-serif;
+    color: #ffffff;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+    font-size: 24px;
+    padding-top: 25px;
+}
+
+.i2 {
+    width: 800px;
+    height: 600px;
 }
